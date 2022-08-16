@@ -289,9 +289,6 @@ a:hover {
 /*media queries for responsive design this website supports multiple viewports*/
 
 @media only screen and (max-width:1600px) and (min-width:1200px) {
-    .middle-container{
-        background-color: red;
-    }
     
     .topcloud {
         height: 40px;
